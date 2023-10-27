@@ -1,0 +1,7 @@
+E:\Practice\cp\ProblemSolving\ProblemSolving\bin\Debug\ProblemSolving.exe.config
+E:\Practice\cp\ProblemSolving\ProblemSolving\bin\Debug\ProblemSolving.exe
+E:\Practice\cp\ProblemSolving\ProblemSolving\bin\Debug\ProblemSolving.pdb
+E:\Practice\cp\ProblemSolving\ProblemSolving\obj\Debug\ProblemSolving.csproj.AssemblyReference.cache
+E:\Practice\cp\ProblemSolving\ProblemSolving\obj\Debug\ProblemSolving.csproj.CoreCompileInputs.cache
+E:\Practice\cp\ProblemSolving\ProblemSolving\obj\Debug\ProblemSolving.exe
+E:\Practice\cp\ProblemSolving\ProblemSolving\obj\Debug\ProblemSolving.pdb
